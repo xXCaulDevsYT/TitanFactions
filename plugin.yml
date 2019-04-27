@@ -1,0 +1,6 @@
+name: TitanFactions
+main: Titan\Factions\Loader
+author: Havana
+api: 3.0.0
+version: 1.0.0
+description: "FactionsGUI by Havana."
